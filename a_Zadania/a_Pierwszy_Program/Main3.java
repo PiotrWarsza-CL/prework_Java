@@ -7,3 +7,23 @@ public class Main3 {
 	}
 
 }
+
+//Komentarz jednolinikowy. To jest właśnie taki komentarz.
+
+
+/*
+Komentarz wielolinowy jest tutaj.
+Druga linia komentarza.
+Trzecia linia.
+*/
+
+
+/**
+*Komentarz dokumentacyjny.
+*Może być w dwóch wierszach.
+*A nawet większa liczba wierszy jest ok.
+*/
+
+
+
+
