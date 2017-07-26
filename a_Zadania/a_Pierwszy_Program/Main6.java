@@ -1,9 +1,9 @@
 
-public class Main4 {
+public class Main6 {
 
 	public static void main(String[] args) {
-		System.out.println("Dzisiaj zaczynam kurs");
-		System.out.println("języka JAVA");
-		System.out.println("w CodersLab");
+		System.out.print("Piotr");
+		System.out.println(" Warsza");
+		System.out.print("PiotrWarsza-CL");
 	}
 }
