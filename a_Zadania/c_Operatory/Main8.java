@@ -14,9 +14,5 @@ public class Main8 {
         System.out.println(x_y);
  		System.out.println(t_f);
  		System.out.println(last);
-	    
-
-
 	}
-
 }

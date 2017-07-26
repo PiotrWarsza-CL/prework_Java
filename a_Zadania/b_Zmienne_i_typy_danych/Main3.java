@@ -12,3 +12,7 @@ public class Main3 {
 	}
 
 }
+
+//Zmienna result powinna być typu double, bo dodajemy int do double.
+//Java wymaga odpowiedniego określenia zmiennych.
+

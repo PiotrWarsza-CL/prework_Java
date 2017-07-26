@@ -7,15 +7,17 @@ public class Main5 {
 		int resultWhile = 0;
 
 		int i;
+		int j;
 
 		for (i = 0; i < 10; i++){
 			resultFor++;
 		}
 
 
-		i = 0;
+		j = 0;
 
-		while (i<10) {
+		while (j<10) {
+			j++;
 			resultWhile++;
 		}
 

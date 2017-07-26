@@ -20,5 +20,4 @@ public class Main2 {
 	    	System.out.println("Żadna z liczb nie jest największa");
 	    }
     }
-
 }
