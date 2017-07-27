@@ -9,7 +9,7 @@ public class Main5 {
 		b=a++; //3, znów wyświetli się trzy, a następnie doda jeden. Najpierw przypisanie, potem kontamentacja. 
 		System.out.println(b); //3, wyświetli się akutalna wartość zmiennej.
 		b=++a; //4, 
-		System.out.println(++a);//5, nie wiem, czemu 6.
+		System.out.println(++a);//hm.....
 	}
 
 }
